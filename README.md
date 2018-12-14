@@ -1,2 +1,2 @@
 # BlackJack
-cmd game BlackJack with C#
+cmd game BlackJack with C
